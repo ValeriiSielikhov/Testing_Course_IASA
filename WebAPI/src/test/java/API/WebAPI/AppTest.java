@@ -15,7 +15,7 @@ import io.restassured.RestAssured;
 public class AppTest{
 	
 	//your token from dropbox.com
-	public static String my_token = "sl.An6RpuJrYJtlQp_ktadDasAf7Ik44if2ElSDW36sxBkXuz5znYeGMUZ7oPx0MRBqZnvTIWwr_4pyJlHVS4ortP-NmyDj-4Epl9xfBVELgUqtWPZyPunJYtIE8iQXtd2CFV1Gmck";
+	public static String my_token = "g4LWglKDFyUAAAAAAAAAAc08r2YVtLTO3Hcf2-O4GuNtS7CkMPFB2V_XEkbBcPow";
 
     @Test
     public void test1_upload(){
