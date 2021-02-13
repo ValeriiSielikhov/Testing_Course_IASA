@@ -1,8 +1,7 @@
 # Testing_Course_IASA
 
-Дня запуска тестов нужно:
-1) проверить правильность введеного токена(String my_token)
-2) заранить файл pom.xml as Maven test
+Запуск тестов
 
-Лично я для этого использовал эклипс
+Homework содержит автотесты с использованием Selenium Webdriver(папка src), а так же BDD сценарии с Cucumber(папка Features). Для запуска тестов нужно заранить Runner.java as JUnit Test
 
+Лично я использовал эклипс
